@@ -7532,9 +7532,9 @@ img{
 
 .whatsapp-float {
   position: fixed;
-  bottom: 65px;      /* 👈 moved to top */
-  right: 15px;    /* stays on the right */
-  background-color: #25D366; /* WhatsApp green */
+  bottom: 65px;   
+  right: 10px;    
+  background-color: #25D366; 
   color: white;
   border-radius: 50%;
   padding: 15px;
