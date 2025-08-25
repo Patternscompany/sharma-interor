@@ -7660,7 +7660,7 @@ img{
   }
 
   .image-box img {
-    max-width: 250px; /* smaller image for mobile */
+    /* max-width: 250px; */
     margin-top: 15px;
   }
 
@@ -7687,7 +7687,7 @@ img{
   }
 
   .image-box img {
-    max-width: 200px;
+    /* max-width: 200px; */
   }
 }
 
