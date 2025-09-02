@@ -1955,6 +1955,7 @@ img{
 	/* color:#272727; */
 	padding-bottom:14px;
 	font-weight:700;
+	margin: 10px;
 }
 
 .sec-title-four h2:after{
@@ -7634,7 +7635,10 @@ img{
   font-size: 20px;
   cursor: pointer;
   margin: 0 15px;
+
 }
+
+
 
 /* 🔹 Responsive Design for Mobile */
 @media (max-width: 768px) {
@@ -7663,6 +7667,7 @@ img{
     /* max-width: 250px; */
     margin-top: 15px;
   }
+  
 
   .nav-btn {
     width: 35px;
